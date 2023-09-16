@@ -1,2 +1,2 @@
 # Get-to-know
-Simple Activity
+Welcome to Star Trek Connection Board!
