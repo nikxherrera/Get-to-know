@@ -1,5 +1,7 @@
-# Welcome Aboard Crew.
+# Git Trek: The Version Control Voyage
 
+## Objective
+Learn basics of Git version control by simulating a space mission with Captain Kirk and the crew.
 
 ## Instruction
 Clone this repository and write your name, linkedin profile link, and year (You are free to choose which year you want) and create own branch name.
